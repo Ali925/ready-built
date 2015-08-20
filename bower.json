@@ -1,0 +1,14 @@
+{
+  "name": "ready-built",
+  "version": "1.0.0",
+  "homepage": "https://github.com/Ali925/ready-built",
+  "authors": [
+    "Ali925 <alitural.mehdi@gmail.com>"
+  ],
+  "description": "Built project",
+  "dependencies": {
+    "jquery" : "latest",
+    "normalize.css" : "latest",
+    "modernizer" : "latest"
+  }
+}
